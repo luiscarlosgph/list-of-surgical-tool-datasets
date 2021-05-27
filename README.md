@@ -48,4 +48,17 @@ Tool segmentation
     </td>
   </tr>
   
+  <!-- ROBUST-MIS 2019 -->
+  <tr>
+    <td align="center">
+      <a href="https://www.synapse.org/#!Synapse:syn20575265">ROBUST-MIS2019</a>
+    </td>
+    <td align="center">
+      Procedures in rectal resection and proctocolectomy. A training case encompasses a 10 second video snippet in form of 250 endoscopic image frames and a reference annotation for the last frame. In the annotated frame a “0” indicates the absence of a medical instrument and numbers “1”, “2“, ... represent different instances of medical instruments.
+    </td>
+    <td align="center">
+      <a href="https://arxiv.org/abs/2003.10299">Ross et al. 2020</a>
+    </td>
+  </tr>
+  
 </table>
