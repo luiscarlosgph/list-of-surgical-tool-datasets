@@ -120,6 +120,19 @@ Tool-tissue action detection
     <td align="center">Dataset</td> <td align="center">Brief description</td> <td align="center">Paper</td>
   </tr>
   
+  <!-- CholecT50 -->
+  <tr>
+    <td align="center">
+      <a href="https://cholectriplet2021.grand-challenge.org/">CholecT50</a>
+    </td>
+    <td align="center">
+      Every frame is annotated with labels from the triplet: instrument, verb and target.
+    </td>
+    <td align="center">
+      N/A
+    </td>
+  </tr>
+  
   <!-- SARAS-MESAD2021 -->
   <tr>
     <td align="center">
