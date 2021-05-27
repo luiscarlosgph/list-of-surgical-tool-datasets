@@ -2,6 +2,29 @@ Description
 -----------
 List of surgical tool datasets organised by task.
 
+Tool classification
+-------------------
+
+<table align="center">
+  <tr>
+    <td align="center">Dataset</td> <td align="center">Brief description</td> <td align="center">Paper</td>
+  </tr>
+  
+  <!-- Cholec80 -->
+  <tr>
+    <td align="center">
+      <a href="http://camma.u-strasbg.fr/datasets">Cholec80</a>
+    </td>
+    <td align="center">
+      80 videos of cholecystectomy surgeries performed by 13 surgeons. The videos are captured at 25 fps. The dataset is labeled with the phase (at 25 fps) and tool presence annotations (at 1 fps). A tool is defind as present in an image if at least half of the tool tip is visible.
+    </td>
+    <td align="center">
+      <a href="https://arxiv.org/abs/1602.03012">Twinanda et al. 2016</a>
+    </td>
+  </tr>
+  
+</table>
+
 Tool segmentation
 -----------------
 <table align="center">
