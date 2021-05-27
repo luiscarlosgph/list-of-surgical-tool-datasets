@@ -111,3 +111,26 @@ Tool segmentation
   </tr>
   
 </table>
+
+Tool-tissue action detection
+----------------------------
+
+<table align="center">
+  <tr>
+    <td align="center">Dataset</td> <td align="center">Brief description</td> <td align="center">Paper</td>
+  </tr>
+  
+  <!-- SARAS-MESAD2021 -->
+  <tr>
+    <td align="center">
+      <a href="https://saras-mesad.grand-challenge.org">SARAS-MESAD2021</a>
+    </td>
+    <td align="center">
+      Dataset contains monocular digital recordings from da Vinci Xi robotic system. Two sub-datasets: MESAD-Real and MESAD-Phantom. MESAD-Real represents the prostatectomy procedures recorded on human patients. It contains four sessions of complete prostatectomy procedure performed by expert surgeons on real patients. MESAD-Phantom is also designed for surgeon action detection during prostatectomy, but is composed of videos captured during procedures on phantoms used for the training of surgeons. MESAD-Real comprises 21 action classes and MESAD-Phantom contemplates a smaller list of 14 action classes. Both the datasets share 11 action classes.
+    </td>
+    <td align="center">
+      N/A
+    </td>
+  </tr>
+  
+</table>
