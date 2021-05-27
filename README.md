@@ -32,6 +32,19 @@ Tool segmentation
     <td align="center">Dataset</td> <td align="center">Brief description</td> <td align="center">Paper</td>
   </tr>
   
+  <!-- RMIT -->
+  <tr>
+    <td align="center">
+      <a href="https://sites.google.com/site/sznitr/code-and-datasets">RMIT</a>
+    </td>
+    <td align="center">
+      This dataset consists of three image sequences during retinal microsurgery. For each image sequence, the instrument position and size has been hand annotated.
+    </td>
+    <td align="center">
+      <a href="https://link.springer.com/chapter/10.1007/978-3-642-33418-4_70">Sznitman et a. 2012</a>
+    </td>
+  </tr>
+  
   <!-- InstrumentCrowd -->
   <tr>
     <td align="center">
