@@ -97,19 +97,6 @@ Tool segmentation
     </td>
   </tr>
   
-  <!-- RoboTool -->
-  <tr>
-    <td align="center">
-      <a href="https://www.synapse.org/#!Synapse:syn22427422">RoboTool</a>
-    </td>
-    <td align="center">
-      514 images extracted from the videos of 20 freely available surgical procedures and annotated for binary tool-background segmentation.
-    </td>
-    <td align="center">
-      <a href="https://arxiv.org/abs/2102.09528">Garcia-Peraza-Herrera et al. 2021</a>
-    </td>
-  </tr>
-  
   <!-- ROBUST-MIS 2019 -->
   <tr>
     <td align="center">
@@ -133,6 +120,19 @@ Tool segmentation
     </td>
     <td align="center">
       <a href="https://arxiv.org/pdf/2012.12453.pdf">Hong et al. 2020</a>
+    </td>
+  </tr>
+  
+  <!-- RoboTool -->
+  <tr>
+    <td align="center">
+      <a href="https://www.synapse.org/#!Synapse:syn22427422">RoboTool</a>
+    </td>
+    <td align="center">
+      514 images extracted from the videos of 20 freely available surgical procedures and annotated for binary tool-background segmentation.
+    </td>
+    <td align="center">
+      <a href="https://arxiv.org/abs/2102.09528">Garcia-Peraza-Herrera et al. 2021</a>
     </td>
   </tr>
   
