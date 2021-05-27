@@ -155,7 +155,7 @@ Tool segmentation
       <a href="https://www.synapse.org/#!Synapse:syn22427422">RoboTool</a>
     </td>
     <td align="center">
-      514 images extracted from the videos of 20 freely available surgical procedures and annotated for binary tool-background segmentation.
+      514 images extracted from the videos of 20 freely available robotic surgical procedures and annotated for binary tool-background segmentation.
     </td>
     <td align="center">
       <a href="https://arxiv.org/abs/2102.09528">Garcia-Peraza-Herrera et al. 2021</a>
