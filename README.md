@@ -97,4 +97,17 @@ Tool segmentation
     </td>
   </tr>
   
+  <!-- CholecSeg8k -->
+  <tr>
+    <td align="center">
+      <a href="https://www.kaggle.com/newslab/cholecseg8k">CholecSeg8k</a>
+    </td>
+    <td align="center">
+      Based on the Cholec80 dataset, extracted and annotated 8080 laparoscopic cholecystectomy image frames from 17 video clips in Cholec80.
+    </td>
+    <td align="center">
+      <a href="https://arxiv.org/pdf/2012.12453.pdf">Hong et al. 2020</a>
+    </td>
+  </tr>
+  
 </table>
