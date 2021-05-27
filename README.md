@@ -173,3 +173,26 @@ Tool-tissue action detection
   </tr>
   
 </table>
+
+Skill assessment
+----------------
+
+<table align="center">
+  <tr>
+    <td align="center">Dataset</td> <td align="center">Brief description</td> <td align="center">Paper</td>
+  </tr>
+  
+  <!-- JIGSAWS -->
+  <tr>
+    <td align="center">
+      <a href="https://cirl.lcsr.jhu.edu/research/hmm/datasets/jigsaws_release/">JIGSAWS</a>
+    </td>
+    <td align="center">
+      The JIGSAWS dataset consists of three components: kinematic data (Cartesian positions, orientations, velocities, angular velocities and gripper angle describing the motion of the manipulators), video data (stereo video captured from the endoscopic camera), and manual annotations of gestures (atomic surgical activity segment labels) and skill (global rating score using modified objective structured assessments of technical skills).
+    </td>
+    <td align="center">
+      <a href="https://cirl.lcsr.jhu.edu/wp-content/uploads/2015/11/JIGSAWS.pdf">Gao et al. 2014</a>
+    </td>
+  </tr>
+  
+</table>
