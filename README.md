@@ -174,8 +174,8 @@ Tool-tissue action detection
   
 </table>
 
-Skill assessment
-----------------
+Skill assessment and workflow recognition
+-----------------------------------------
 
 <table align="center">
   <tr>
