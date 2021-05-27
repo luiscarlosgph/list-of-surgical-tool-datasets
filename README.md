@@ -32,6 +32,19 @@ Tool segmentation
     <td align="center">Dataset</td> <td align="center">Brief description</td> <td align="center">Paper</td>
   </tr>
   
+  <!-- NeuroSurgicalTools -->
+  <tr>
+    <td align="center">
+      <a href="https://medicis.univ-rennes1.fr/software#neurosurgicaltools_dataset">NeuroSurgicalTools</a>
+    </td>
+    <td align="center">
+      Consists of 2476 monocular images (1221 for training and 1255 for testing) coming from in vivo neurosurgeries. The resolution of the images varies from 612×460 to 1920×1080. 
+    </td>
+    <td align="center">
+      <a href="https://ieeexplore.ieee.org/document/7138629">Bouget et al. 2015</a>
+    </td>
+  </tr>
+  
   <!-- EndoVis2015 -->
   <tr>
     <td align="center">
