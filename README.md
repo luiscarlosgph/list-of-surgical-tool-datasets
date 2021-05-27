@@ -12,10 +12,10 @@ Tool segmentation
   <!-- EndoVis2017 -->
   <tr>
     <td align="center">
-      <a href="https://www.synapse.org/#!Synapse:syn22399328">EndoVis2017</a>
+      <a href="https://endovissub2017-roboticinstrumentsegmentation.grand-challenge.org">EndoVis2017</a>
     </td>
     <td align="center">
-      
+      8x 225-frame robotic surgical videos, captured at 2 Hz, with manually labelled different tool parts and types. The testing set contains 8x 75-frame videos and 2x 300-frame videos.
     </td>
     <td align="center">
       <a href="https://arxiv.org/pdf/1902.06426.pdf">Allan et al. 2019</a>
