@@ -234,6 +234,19 @@ Skill assessment and workflow recognition
     </td>
   </tr>
   
+  <!-- HeiCo -->
+  <tr>
+    <td align="center">
+      <a href="https://www.synapse.org/#!Synapse:syn21903917/wiki/601992">HeiCo</a>
+    </td>
+    <td align="center">
+      The data set contains of data from the ROBUST-MIS 2019 challenge and the Surgical Workflow Challenges from EndoVis 2017 and 2018.
+    </td>
+    <td align="center">
+      <a href="https://arxiv.org/abs/2005.03501">Maier-Hein et al. 2020</a>
+    </td>
+  </tr>
+  
   <!-- MISAW -->
   <tr>
     <td align="center">
@@ -246,7 +259,5 @@ Skill assessment and workflow recognition
       <a href="https://arxiv.org/abs/2103.13111">Huaulmé et al. 2021</a>
     </td>
   </tr>
-  
-
   
 </table>
