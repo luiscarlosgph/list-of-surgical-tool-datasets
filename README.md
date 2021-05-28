@@ -177,8 +177,8 @@ Tool segmentation
     <td align="center">
       This dataset contains 8080 laparoscopic cholecystectomy image frames extracted and annotated from 17 video clips in Cholec80.
     </td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">8K</td>
+    <td align="center">17</td>
     <td align="center">
       <a href="https://arxiv.org/pdf/2012.12453.pdf">Hong et al. 2020</a>
     </td>
@@ -192,8 +192,8 @@ Tool segmentation
     <td align="center">
       514 images extracted from the videos of 20 freely available robotic surgical procedures and annotated for binary tool-background segmentation.
     </td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">514</td>
+    <td align="center">20</td>
     <td align="center">
       <a href="https://arxiv.org/abs/2102.09528">Garcia-Peraza-Herrera et al. 2021</a>
     </td>
