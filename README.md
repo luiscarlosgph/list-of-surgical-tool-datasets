@@ -287,8 +287,8 @@ Skill assessment and workflow recognition
     <td align="center">
       The data set contains of data from the ROBUST-MIS 2019 challenge and the Surgical Workflow Challenges from EndoVis 2017 and 2018.
     </td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">10K</td>
+    <td align="center">30</td>
     <td align="center">
       <a href="https://arxiv.org/abs/2005.03501">Maier-Hein et al. 2020</a>
     </td>
