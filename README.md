@@ -132,8 +132,8 @@ Tool segmentation
     <td align="center">
       Training dataset is made up of 16 robotic nephrectomy procedures recorded using da Vinci Xi systems in porcine labs (subsampled to 2fps). Sequences with little or no motion are manually removed to leave 149 frames per procedure. Video frames are 1280x1024 and we provide the left and right eye camera image as well as the stereo camera calibration parameters. Labels are only provided for the left image. 
     </td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2384</td>
+    <td align="center">16</td>
     <td align="center">
       <a href="https://arxiv.org/abs/2001.11190">Allan et al. 2020</a>
     </td>
