@@ -102,8 +102,8 @@ Tool segmentation
     <td align="center">
       40 2D in-vivo images from 4 laparoscopic colorectal surgeries. Each pixel is labelled as either background, shaft and manipulator (~160 2D images and annotations in total). 4x 45-second 2D images sequences of at least one Large Needle Driver instrument in an ex-vivo setup. Each pixel is labelled as either backgroud, shaft, head or clasper. 
     </td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">8974</td>
+    <td align="center">8</td>
     <td align="center">
       N/A
     </td>
