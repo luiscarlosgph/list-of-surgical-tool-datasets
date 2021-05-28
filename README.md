@@ -261,3 +261,11 @@ Skill assessment and workflow recognition
   </tr>
   
 </table>
+
+Repositories holding multiple datasets
+--------------------------------------
+* https://endovis.grand-challenge.org
+* https://opencas.webarchiv.kit.edu
+* http://camma.u-strasbg.fr/datasets
+* http://hamlyn.doc.ic.ac.uk/vision
+* https://sites.google.com/site/sznitr/code-and-datasets
