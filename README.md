@@ -309,6 +309,21 @@ Skill assessment and workflow recognition
     </td>
   </tr>
   
+  <!-- PETRAW -->
+    <tr>
+    <td align="center">
+      <a href="https://www.synapse.org/#!Synapse:syn25147789/wiki/608848">PETRAW</a>
+    </td>
+    <td align="center">
+      Dataset for online automatic recognition of surgical workflow by using both kinematic and stereoscopic video information on a micro-anastomosis training task.
+    </td>
+    <td align="center">N/A</td>
+    <td align="center">100</td>
+    <td align="center">
+      N/A
+    </td>
+  </tr>
+  
 </table>
 
 Image-to-image translation
