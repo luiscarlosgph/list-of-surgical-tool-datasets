@@ -272,7 +272,7 @@ Skill assessment and workflow recognition
     <td align="center">
       This dataset contains 101 videos of cataract surgeries annotated with two kinds of information: Anonymous ID and experience level of operating surgeon, and starting points of quasi-standardized operation phases in videos.
     </td>
-    <td align="center"></td>
+    <td align="center">1.3M</td>
     <td align="center">101</td>
     <td align="center">
       <a href="https://dl.acm.org/doi/10.1145/3204949.3208137">Schoeffmann et al. 2018</a>
