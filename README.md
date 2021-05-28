@@ -33,8 +33,8 @@ Tool classification
     <td align="center">
       This dataset consists of 50 cataract surgery. It was annotated for two main tasks: surgical tool presence detection and surgical activity recognition. It was divided into two sets (train, test) for the surgical tool presence detection task and 3 sets (train, dev, test) for the activity recognition task.
     </td>
-        <td align="center"></td>
     <td align="center"></td>
+    <td align="center">50</td>
     <td align="center">
       <a href="https://www.sciencedirect.com/science/article/abs/pii/S136184151830865X">Al Hajj et al. 2019</a>
     </td>
