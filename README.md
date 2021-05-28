@@ -310,7 +310,7 @@ Skill assessment and workflow recognition
   </tr>
   
   <!-- PETRAW -->
-    <tr>
+  <tr>
     <td align="center">
       <a href="https://www.synapse.org/#!Synapse:syn25147789/wiki/608848">PETRAW</a>
     </td>
