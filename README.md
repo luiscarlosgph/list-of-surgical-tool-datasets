@@ -269,3 +269,4 @@ Repositories holding multiple datasets
 * http://camma.u-strasbg.fr/datasets
 * http://hamlyn.doc.ic.ac.uk/vision
 * https://sites.google.com/site/sznitr/code-and-datasets
+* https://datasets.simula.no/index.html
