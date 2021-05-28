@@ -206,7 +206,7 @@ Tool-tissue action detection
 
 <table align="center">
   <tr>
-    <td align="center">Dataset</td> <td align="center">Brief description</td> <td align="center">Paper</td>
+    <td align="center">Dataset</td> <td align="center">Brief description</td> <td align="center">Images</td> <td align="center">Procedures</td> <td align="center">Paper</td>
   </tr>
   
   <!-- CholecT50 -->
@@ -246,7 +246,7 @@ Skill assessment and workflow recognition
 
 <table align="center">
   <tr>
-    <td align="center">Dataset</td> <td align="center">Brief description</td> <td align="center">Paper</td>
+    <td align="center">Dataset</td> <td align="center">Brief description</td> <td align="center">Images</td> <td align="center">Procedures</td> <td align="center">Paper</td>
   </tr>
   
   <!-- JIGSAWS -->
