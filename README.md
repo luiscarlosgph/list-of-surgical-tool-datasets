@@ -72,8 +72,8 @@ Tool segmentation
     <td align="center">
       The training data was generated from a total of 6 surgical procedures, three from laparoscopic adrenalectomies and three from laparoscopic pancreatic resections. From each surgery, 20 images containing one or several medical instruments were extracted, yielding 120 images in total.
     </td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">120</td>
+    <td align="center">6</td>
     <td align="center">
       <a href="https://link.springer.com/chapter/10.1007%2F978-3-319-10470-6_55">Maier-Hein et al. 2014</a>
     </td>
