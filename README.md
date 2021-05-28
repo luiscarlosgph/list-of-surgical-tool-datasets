@@ -315,7 +315,7 @@ Image-to-image translation
 --------------------------
 <table align="center">
   <tr>
-    <td align="center">Dataset</td> <td align="center">Brief description</td> <td align="center">Paper</td>
+    <td align="center">Dataset</td> <td align="center">Brief description</td> <td align="center">Images</td> <td align="center">Procedures</td> <td align="center">Paper</td>
   </tr>
   
   <!-- Laparoscopic Image to Image Translation -->
