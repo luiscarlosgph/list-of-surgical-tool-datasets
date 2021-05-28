@@ -275,6 +275,27 @@ Skill assessment and workflow recognition
   
 </table>
 
+Image-to-image translation
+--------------------------
+<table align="center">
+  <tr>
+    <td align="center">Dataset</td> <td align="center">Brief description</td> <td align="center">Paper</td>
+  </tr>
+  
+  <!-- Laparoscopic Image to Image Translation -->
+  <tr>
+    <td align="center">
+      <a href="http://opencas.dkfz.de/image2image/">Laparoscopic Image to Image Translation</a>
+    </td>
+    <td align="center">
+      Synthetic images in a 3D environemnt, roughly resembling laparoscopic liver surgery scenes. A group of Generative Adversarial Networks (GAN) is trained to translate these images to look like real laparoscopic images. After the training process, the translated images along with their labels can be used as training data for a certain target task.
+    </td>
+    <td align="center">
+      <a href="https://arxiv.org/abs/1907.02882">Pfeiffer et al. 2019</a>
+    </td>
+  </tr>
+</table>
+
 Repositories holding multiple datasets
 --------------------------------------
 * https://endovis.grand-challenge.org
