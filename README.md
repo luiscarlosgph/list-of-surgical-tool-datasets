@@ -302,7 +302,7 @@ Skill assessment and workflow recognition
     <td align="center">
       The data-set contains 27 micro-anastomosis training sequences and is composed of the following information: stereoscopic video, kinematic data, workflow annotation at 3 levels of granularity (phases, steps, and activities).
     </td>
-    <td align="center"></td>
+    <td align="center">N/A</td>
     <td align="center">27</td>
     <td align="center">
       <a href="https://arxiv.org/abs/2103.13111">Huaulmé et al. 2021</a>
