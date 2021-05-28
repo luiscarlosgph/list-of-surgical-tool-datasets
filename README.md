@@ -7,7 +7,7 @@ Tool classification
 
 <table align="center">
   <tr>
-    <td align="center">Dataset</td> <td align="center">Brief description</td> <td align="center">Image</td> <td align="center">Patients</td> <td align="center">Paper</td>
+    <td align="center">Dataset</td> <td align="center">Brief description</td> <td align="center">Images</td> <td align="center">Patients</td> <td align="center">Paper</td>
   </tr>
   
   <!-- Cholec80 -->
