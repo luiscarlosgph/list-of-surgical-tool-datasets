@@ -7,7 +7,7 @@ Tool classification
 
 <table align="center">
   <tr>
-    <td align="center">Dataset</td> <td align="center">Brief description</td> <td align="center">Paper</td>
+    <td align="center">Dataset</td> <td align="center">Brief description</td> <td align="center">Image</td> <td align="center">Patients</td> <td align="center">Paper</td>
   </tr>
   
   <!-- Cholec80 -->
@@ -18,6 +18,8 @@ Tool classification
     <td align="center">
       80 videos of cholecystectomy surgeries performed by 13 surgeons. The videos are captured at 25 fps. The dataset is labeled with the phase (at 25 fps) and tool presence annotations (at 1 fps). A tool is defind as present in an image if at least half of the tool tip is visible.
     </td>
+    <td align="center"></td>
+    <td align="center"></td>
     <td align="center">
       <a href="https://arxiv.org/abs/1602.03012">Twinanda et al. 2016</a>
     </td>
@@ -31,6 +33,8 @@ Tool classification
     <td align="center">
       This dataset consists of 50 cataract surgery. It was annotated for two main tasks: surgical tool presence detection and surgical activity recognition. It was divided into two sets (train, test) for the surgical tool presence detection task and 3 sets (train, dev, test) for the activity recognition task.
     </td>
+        <td align="center"></td>
+    <td align="center"></td>
     <td align="center">
       <a href="https://www.sciencedirect.com/science/article/abs/pii/S136184151830865X">Al Hajj et al. 2019</a>
     </td>
