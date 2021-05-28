@@ -97,6 +97,22 @@ Tool segmentation
     </td>
   </tr>
   
+  <!-- Kvasir-Instrument -->
+  <tr>
+    <td align="center">
+      <a href="https://datasets.simula.no/kvasir/#download">Kvasir-Instrument-v1</a><br>
+      <a href="https://datasets.simula.no/kvasir/#download">Kvasir-Instrument-v2</a>
+    </td>
+    <td align="center">
+      The Kvasir dataset consists of images, annotated and verified by experienced endoscopists, including several classes showing anatomical landmarks, phatological findings or endoscopic procedures in the GI tract.<br>
+      * Version 1: contains 4000 images, 8 classes, 500 images for each class.<br>
+      * Version 2: contains 8,000 images, 8 classes, 1,000 images for each class.
+    </td>
+    <td align="center">
+      <a href="https://dl.acm.org/do/10.1145/3193289/abs/">Pogorelov et al. 2017</a>
+    </td>
+  </tr>
+  
   <!-- EndoVis2017 -->
   <tr>
     <td align="center">
