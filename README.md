@@ -87,8 +87,8 @@ Tool segmentation
     <td align="center">
       Consists of 2476 monocular images (1221 for training and 1255 for testing) coming from in vivo neurosurgeries. The resolution of the images varies from 612×460 to 1920×1080. 
     </td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">2476</td>
+    <td align="center">14</td>
     <td align="center">
       <a href="https://ieeexplore.ieee.org/document/7138629">Bouget et al. 2015</a>
     </td>
