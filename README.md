@@ -57,8 +57,8 @@ Tool segmentation
     <td align="center">
       This dataset consists of three image sequences during retinal microsurgery. For each image sequence, the instrument position and size has been hand annotated.
     </td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">1500</td>
+    <td align="center">4</td>
     <td align="center">
       <a href="https://link.springer.com/chapter/10.1007/978-3-642-33418-4_70">Sznitman et a. 2012</a>
     </td>
