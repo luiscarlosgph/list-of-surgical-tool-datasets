@@ -257,8 +257,8 @@ Skill assessment and workflow recognition
     <td align="center">
       The JIGSAWS dataset consists of three components: kinematic data (Cartesian positions, orientations, velocities, angular velocities and gripper angle describing the motion of the manipulators), video data (stereo video captured from the endoscopic camera), and manual annotations of gestures (atomic surgical activity segment labels) and skill (global rating score using modified objective structured assessments of technical skills).
     </td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">N/A</td>
+    <td align="center">N/A</td>
     <td align="center">
       <a href="https://cirl.lcsr.jhu.edu/wp-content/uploads/2015/11/JIGSAWS.pdf">Gao et al. 2014</a>
     </td>
