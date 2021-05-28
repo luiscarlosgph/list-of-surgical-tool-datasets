@@ -117,8 +117,8 @@ Tool segmentation
     <td align="center">
       8x 225-frame robotic surgical videos, captured at 2 Hz, with manually labelled different tool parts and types. The testing set contains 8x 75-frame videos and 2x 300-frame videos.
     </td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">1800</td>
+    <td align="center">8</td>
     <td align="center">
       <a href="https://arxiv.org/pdf/1902.06426.pdf">Allan et al. 2019</a>
     </td>
