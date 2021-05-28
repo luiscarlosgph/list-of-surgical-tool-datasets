@@ -1,6 +1,6 @@
 Description
 -----------
-List of surgical tool datasets organised by task.
+List of surgical tool datasets organised by task. A list of data repositories is also displayed at the bottom.
 
 Tool classification
 -------------------
