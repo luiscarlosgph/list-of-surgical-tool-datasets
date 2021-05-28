@@ -57,7 +57,7 @@ Tool segmentation
     <td align="center">
       This dataset consists of three image sequences during retinal microsurgery. For each image sequence, the instrument position and size has been hand annotated.
     </td>
-    <td align="center">1500</td>
+    <td align="center">1.5K</td>
     <td align="center">4</td>
     <td align="center">
       <a href="https://link.springer.com/chapter/10.1007/978-3-642-33418-4_70">Sznitman et a. 2012</a>
@@ -87,7 +87,7 @@ Tool segmentation
     <td align="center">
       Consists of 2476 monocular images (1221 for training and 1255 for testing) coming from in vivo neurosurgeries. The resolution of the images varies from 612×460 to 1920×1080. 
     </td>
-    <td align="center">2476</td>
+    <td align="center">2.5K</td>
     <td align="center">14</td>
     <td align="center">
       <a href="https://ieeexplore.ieee.org/document/7138629">Bouget et al. 2015</a>
@@ -102,7 +102,7 @@ Tool segmentation
     <td align="center">
       40 2D in-vivo images from 4 laparoscopic colorectal surgeries. Each pixel is labelled as either background, shaft and manipulator (~160 2D images and annotations in total). 4x 45-second 2D images sequences of at least one Large Needle Driver instrument in an ex-vivo setup. Each pixel is labelled as either backgroud, shaft, head or clasper. 
     </td>
-    <td align="center">8974</td>
+    <td align="center">9K</td>
     <td align="center">8</td>
     <td align="center">
       N/A
@@ -117,7 +117,7 @@ Tool segmentation
     <td align="center">
       8x 225-frame robotic surgical videos, captured at 2 Hz, with manually labelled different tool parts and types. The testing set contains 8x 75-frame videos and 2x 300-frame videos.
     </td>
-    <td align="center">1800</td>
+    <td align="center">1.8K</td>
     <td align="center">8</td>
     <td align="center">
       <a href="https://arxiv.org/pdf/1902.06426.pdf">Allan et al. 2019</a>
@@ -132,7 +132,7 @@ Tool segmentation
     <td align="center">
       Training dataset is made up of 16 robotic nephrectomy procedures recorded using da Vinci Xi systems in porcine labs (subsampled to 2fps). Sequences with little or no motion are manually removed to leave 149 frames per procedure. Video frames are 1280x1024 and we provide the left and right eye camera image as well as the stereo camera calibration parameters. Labels are only provided for the left image. 
     </td>
-    <td align="center">2384</td>
+    <td align="center">2.4K</td>
     <td align="center">16</td>
     <td align="center">
       <a href="https://arxiv.org/abs/2001.11190">Allan et al. 2020</a>
