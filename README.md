@@ -162,7 +162,7 @@ Tool segmentation
     <td align="center">
       The Kvasir-Instrument dataset consists of consists of 590 annotated frames comprising of GI procedure tools such as snares, balloons, biopsy forceps, etc. The resolution of the image in the dataset varies from 720x576 to 1280x1024. 
     </td>
-    <td align="center"></td>
+    <td align="center">590</td>
     <td align="center"></td>
     <td align="center">
       <a href="https://link.springer.com/chapter/10.1007/978-3-030-67835-7_19">Jha et al. 2020</a>
