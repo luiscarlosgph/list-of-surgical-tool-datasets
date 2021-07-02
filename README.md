@@ -347,6 +347,29 @@ Image-to-image translation
   </tr>
 </table>
 
+Multi-task datasets
+-------------------
+<table align="center">
+  <tr>
+    <td align="center">Dataset</td> <td align="center">Brief description</td> <td align="center">Images</td> <td align="center">Procedures</td> <td align="center">Paper</td>
+  </tr>
+  
+  <!-- ART-Net -->
+  <tr>
+    <td align="center">
+      <a href="https://github.com/kamruleee51/ART-Net">ART-Net</a>
+    </td>
+    <td align="center">
+      This dataset consists non-robotic tools with annotated tool presence, tool segmentation, and instrumnt geometric primitives (mid-line, edge-line, tooltip). The images come from laparoscopic hysterectomy videos. This dataset also contains tool presence annotated for another set of 3000 images, namely 1500 positive and 1500 negative images, respectively, for which some positive images contain multiple tools. 4270 images are labelled for tool detection. If the tool shaft is not visible at all, the image is marked as negative. When a small part of the tool shaft is visible, the image is marked as positive. For segmentation and geometric primitive extraction, 635 images are annotated.
+    </td>
+    <td align="center">Different for each task</td>
+    <td align="center">29</td>
+    <td align="center">
+      <a href="https://www.sciencedirect.com/science/article/pii/S1361841521000402">Hasan al. 2021</a>
+    </td>
+  </tr>
+</table>
+
 Repositories holding multiple datasets
 --------------------------------------
 * https://endovis.grand-challenge.org
