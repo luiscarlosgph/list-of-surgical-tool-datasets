@@ -368,6 +368,22 @@ Multi-task datasets
       <a href="https://www.sciencedirect.com/science/article/pii/S1361841521000402">Hasan al. 2021</a>
     </td>
   </tr>
+  
+  <!-- HeiSurF -->
+  <tr>
+    <td align="center">
+      <a href="https://www.synapse.org/#!Synapse:syn25101790/wiki/610857">HeiSurF</a>
+    </td>
+    <td align="center">
+      Surgical Workflow Analysis and Full Scene Segmentation. All surgeries were annotated framewise for surgical phases by surgical experts. Surgical actions, instrument usage and surgical skill levels were annotated. The surgeries recorded are laparoscopic gallbladder removals (cholecystectomy). The data for segmentation consists of two parts. In the first part of the training dataset, frames at 2 minute intervals from 24 operations (the same operations as for the workflow challenge) are provided. The second part of the training dataset will consist of brief sequences taken from each video, where frames will be segmented at 1fps. To ensure anonymity, frames corresponding to extra-abdominal views are censored by entirely white (RGB 255 255 255) frames. The testing dataset of 9 videos will not be released.
+    </td>
+    <td align="center">24 videos</td>
+    <td align="center">30</td>
+    <td align="center">
+      <a href="https://github.com/luiscarlosgph/list-of-surgical-tool-datasets/blob/main/data/HeiSurf-Presentation.pdf">HeiSurf Presentation</a>
+    </td>
+  </tr>
+  
 </table>
 
 Repositories holding multiple datasets
