@@ -404,7 +404,7 @@ Multi-task datasets
         <li>Instrument and key anatomy segmentation: for each clip in the motion prediction task, six frames are sampled at 1fps, and annotated with pixel-wise segmentation. Four types of instruments and one key anatomy is annotated in the dataset: grasping forceps, LigaSure, dissecting and grasping forceps, electric hook, uterus.</li>
       </ul>
     </td>
-    <td align="center">21 videos</td>
+    <td align="center">Different for each task</td>
     <td align="center">21</td>
     <td align="center">
       <a href="https://arxiv.org/abs/2208.02049">Wang et al. 2022</a>
