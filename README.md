@@ -58,7 +58,7 @@ Tool classification
             The test has tool presence labels and also bounding boxes around the robotic tools. The videos are sampled at 1Hz.
         </li>
     </td>
-    <td align="center">44M (24,695 videos of 30s at 60Hz)</td>
+    <td align="center">44M</td>
     <td align="center">N/A</td>
     <td align="center">
       N/A
