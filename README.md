@@ -40,31 +40,6 @@ Tool classification
     </td>
   </tr>
   
-  <!-- SurgToolLoc -->
-  <tr>
-    <td align="center">
-      <a href="https://surgtoolloc.grand-challenge.org/">SurgToolLoc</a>
-    </td>
-    <td align="center">
-      This dataset contains clips of surgical training exercises using the da Vinci robotic system.
-      In them, trainees perform standard activities such as dissecting tissue and suturing.
-      There are 24,695 video clips, each 30 seconds long and captured at 60 fps with a resolution of 1280x720 pixels.
-      <ul>
-        <li>Training data: for each 30-second clip within the training set, just tool presence labels indicating which robotic tools are 
-            installed are provided. For the extent of each clip, the same three tools (out of 14 possible) are installed. 
-            However, some may be obscured or temporarily invisible, i.e. there is noise in the tool presence labels of the training set.
-        </li>
-        <li>Testing data: 
-            The test has tool presence labels and also bounding boxes around the robotic tools. The videos are sampled at 1Hz.
-        </li>
-    </td>
-    <td align="center">44M</td>
-    <td align="center">N/A</td>
-    <td align="center">
-      N/A
-    </td>
-  </tr>
-  
 </table>
 
 
@@ -434,6 +409,31 @@ Multi-task datasets
     <td align="center">21</td>
     <td align="center">
       <a href="https://arxiv.org/abs/2208.02049">Wang et al. 2022</a>
+    </td>
+  </tr>
+  
+  <!-- SurgToolLoc -->
+  <tr>
+    <td align="center">
+      <a href="https://surgtoolloc.grand-challenge.org/">SurgToolLoc</a>
+    </td>
+    <td align="center">
+      This dataset contains clips of surgical training exercises using the da Vinci robotic system.
+      In them, trainees perform standard activities such as dissecting tissue and suturing.
+      There are 24,695 video clips, each 30 seconds long and captured at 60 fps with a resolution of 1280x720 pixels.
+      <ul>
+        <li>Training data: for each 30-second clip within the training set, just tool presence labels indicating which robotic tools are 
+            installed are provided. For the extent of each clip, the same three tools (out of 14 possible) are installed. 
+            However, some may be obscured or temporarily invisible, i.e. there is noise in the tool presence labels of the training set.
+        </li>
+        <li>Testing data: 
+            The test has tool presence labels and also bounding boxes around the robotic tools. The videos are sampled at 1Hz.
+        </li>
+    </td>
+    <td align="center">44M</td>
+    <td align="center">N/A</td>
+    <td align="center">
+      N/A
     </td>
   </tr>
   
