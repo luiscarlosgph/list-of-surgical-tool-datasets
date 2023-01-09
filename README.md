@@ -351,7 +351,7 @@ Multi-task datasets
 -------------------
 <table align="center">
   <tr>
-    <td align="center">Dataset</td> <td align="center">Brief description</td> <td align="center">Images</td> <td align="center">Procedures</td> <td align="center">Paper</td>
+    <td align="center">Dataset</td> <td align="center">Brief description</td> <td align="center">Images/Videos</td> <td align="center">Procedures</td> <td align="center">Paper</td>
   </tr>
   
   <!-- ART-Net -->
@@ -381,6 +381,33 @@ Multi-task datasets
     <td align="center">30</td>
     <td align="center">
       <a href="https://github.com/luiscarlosgph/list-of-surgical-tool-datasets/blob/main/data/HeiSurf-Presentation.pdf">HeiSurf Presentation</a>
+    </td>
+  </tr>
+  
+  <!-- AutoLaparo -->
+  <tr>
+    <td align="center">
+      <a href="https://autolaparo.github.io">AutoLaparo</a>
+    </td>
+    <td align="center">
+      AutoLaparo contains videos of laparoscopic hysterectomy. 
+      Three sub-datasets are designed for the following three tasks: 
+      surgical workflow recognition, laparoscope motion prediction, instrument and key anatomy segmentation.
+      The videos are recorded at 25 fps with a standard resolution of 1920×1080 pixels.
+      The duration of videos ranges from 27 to 112 minutes due to the varying difficulties of the surgeries. After pre-processing, the average duration is 66 minutes and the total duration is 1388 minutes. 
+      <br> Annotations: <br>
+      <ul>
+        <li>Surgical workflow recognition: the hysterectomy procedure is divided into 7 phases and each frame is annotated with a phase label. </li>
+        <li>Laparoscope motion prediction: 300 clips are carefully selected from Phase 2-4 of the 21 videos and each clip lasts for 10 seconds. 
+            Seven types of motion modes are defined, including one Static mode and six non-static mode: Up, Down, Left, Right, Zoom-in, and Zoom-out. 
+        </li>
+        <li>Instrument and key anatomy segmentation: for each clip in the motion prediction task, six frames are sampled at 1fps, and annotated with pixel-wise segmentation. Four types of instruments and one key anatomy is annotated in the dataset: grasping forceps, LigaSure, dissecting and grasping forceps, electric hook, uterus.</li>
+      </ul>
+    </td>
+    <td align="center">21 videos</td>
+    <td align="center">21</td>
+    <td align="center">
+      <a href="https://arxiv.org/abs/2208.02049">Wang et al. 2022</a>
     </td>
   </tr>
   
