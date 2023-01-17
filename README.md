@@ -439,6 +439,45 @@ Multi-task datasets
   
 </table>
 
+
+
+Organ segmentation datasets
+---------------------------
+<table align="center">
+  <tr>
+    <td align="center">Dataset</td> <td align="center">Brief description</td> <td align="center">Images</td> <td align="center">Procedures</td> <td align="center">Paper</td>
+  </tr>
+  
+  <!-- Dresden Surgical Anatomy Dataset -->
+  <tr>
+    <td align="center">
+      <a href="https://www.synapse.org/#!Synapse:syn30368675/wiki/617677">Dresden Surgical Anatomy Dataset</a>
+    </td>
+    <td align="center">
+      The Dresden Surgical Anatomy Dataset provides semantic segmentations of eight abdominal organs (colon, liver, pancreas, small intestine, spleen, stomach, ureter, vesicular glands), the abdominal wall and two vessel structures (inferior mesenteric artery, intestinal veins) in laparoscopic view.
+      The majority of patients (26/32) were male, the overall average age was 63 years and the mean body mass index (BMI) was 26.75 kg/m2 (Table 1). 
+      All included patients had a clinical indication for the surgical procedure. Surgeries were performed using a standard Da Vinci® Xi/X Endoscope 
+      with Camera (8 mm diameter, 30° angle, Intuitive Surgical, Item code 470057) and recorded using the CAST-System (Orpheus Medical GmbH, 
+      Frankfurt a.M., Germany). Each record was saved at a resolution of 1920x1080 pixels in MPEG-4 format and lasts between about two and ten hours.
+    </td>
+    <td align="center">13K</td>
+    <td align="center">32</td>
+    <td align="center">
+      <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9837071">Carstens et al. 2023</a>
+    </td>
+  </tr>
+
+</table>
+
+
+
+
+
+
+
+
+
+
 Repositories holding multiple datasets
 --------------------------------------
 * https://endovis.grand-challenge.org
