@@ -451,7 +451,7 @@ Organ segmentation datasets
   <!-- Dresden Surgical Anatomy Dataset -->
   <tr>
     <td align="center">
-      <a href="https://www.synapse.org/#!Synapse:syn30368675/wiki/617677">Dresden Surgical Anatomy Dataset</a>
+      <a href="https://gitlab.com/nct_tso_public/dsad">Dresden Surgical Anatomy Dataset</a>
     </td>
     <td align="center">
       The Dresden Surgical Anatomy Dataset provides semantic segmentations of eight abdominal organs (colon, liver, pancreas, small intestine, spleen, stomach, ureter, vesicular glands), the abdominal wall and two vessel structures (inferior mesenteric artery, intestinal veins) in laparoscopic view.
@@ -463,7 +463,7 @@ Organ segmentation datasets
     <td align="center">13K</td>
     <td align="center">32</td>
     <td align="center">
-      <a href="https://gitlab.com/nct_tso_public/dsad">Carstens et al. 2023</a>
+      <a href="https://www.nature.com/articles/s41597-022-01719-2">Carstens et al. 2023</a>
     </td>
   </tr>
 
