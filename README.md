@@ -463,7 +463,7 @@ Organ segmentation datasets
     <td align="center">13K</td>
     <td align="center">32</td>
     <td align="center">
-      <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9837071">Carstens et al. 2023</a>
+      <a href="https://gitlab.com/nct_tso_public/dsad">Carstens et al. 2023</a>
     </td>
   </tr>
 
