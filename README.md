@@ -480,9 +480,10 @@ Organ segmentation datasets
 
 Repositories holding multiple datasets
 --------------------------------------
-* https://endovis.grand-challenge.org
-* https://opencas.webarchiv.kit.edu
-* http://camma.u-strasbg.fr/datasets
-* http://hamlyn.doc.ic.ac.uk/vision
-* https://sites.google.com/site/sznitr/code-and-datasets
-* https://datasets.simula.no/index.html
+* [EndoVis](https://endovis.grand-challenge.org)
+* [Open-CAS](https://opencas.webarchiv.kit.edu)
+* [CAMMA](http://camma.u-strasbg.fr/datasets)
+* [Hamlyn](http://hamlyn.doc.ic.ac.uk/vision)
+* [Raphael Sznitman](https://sites.google.com/site/sznitr/code-and-datasets)
+* [Simula](https://datasets.simula.no/index.html)
+* [Adrien Bartoli](http://igt.ip.uca.fr/~ab/code_and_datasets/index.php)
