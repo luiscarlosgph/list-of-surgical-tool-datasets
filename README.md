@@ -500,7 +500,8 @@ Blood segmentation datasets
       <a href="http://igt.ip.uca.fr/~ab/code_and_datasets/datasets/bleeding_segmentation_v1p0.zip">Rabbani et al. 2022</a>
     </td>
     <td align="center">
-      From the 60-hour video footage, 750 frames are extracted for training, and 199 for testing.
+      From the 60-hour video footage, 750 frames are extracted for training, and 199 for testing. Authors downsample all the images to 854×480 pixels 
+      for training.
     </td>
     <td align="center">949 labelled images and over 60 hours of unlabelled video</td>
     <td align="center">96</td>
