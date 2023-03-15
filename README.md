@@ -505,7 +505,7 @@ Blood segmentation datasets
     <td align="center">949 labelled images and over 60 hours of unlabelled video</td>
     <td align="center">96</td>
     <td align="center">
-      <a href="http://igt.ip.uca.fr/~ab/code_and_datasets/datasets/bleeding_segmentation_v1p0.zip">Rabbani et al. 2022</a>
+      <a href="https://proceedings.mlr.press/v172/rabbani22a/rabbani22a.pdf">Rabbani et al. 2022</a>
     </td>
   </tr>
 
