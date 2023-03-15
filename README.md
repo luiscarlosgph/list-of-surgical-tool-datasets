@@ -487,6 +487,30 @@ Organ segmentation datasets
 </table>
 
 
+Blood segmentation datasets
+---------------------------
+<table align="center">
+  <tr>
+    <td align="center">Dataset</td> <td align="center">Brief description</td> <td align="center">Images</td> <td align="center">Procedures</td> <td align="center">Paper</td>
+  </tr>
+  
+  <!-- Laparoscopic Bleeding Management: a Space-time Memory Neural Network with Positional Encoding and Adversarial Domain Adaptation -->
+  <tr>
+    <td align="center">
+      <a href="http://igt.ip.uca.fr/~ab/code_and_datasets/datasets/bleeding_segmentation_v1p0.zip">Rabbani et al. 2022</a>
+    </td>
+    <td align="center">
+      From the 60-hour video footage, 750 frames are extracted for training, and 199 for testing.
+    </td>
+    <td align="center">949 labelled images and over 60 hours of unlabelled video</td>
+    <td align="center">96</td>
+    <td align="center">
+      <a href="http://igt.ip.uca.fr/~ab/code_and_datasets/datasets/bleeding_segmentation_v1p0.zip">Rabbani et al. 2022</a>
+    </td>
+  </tr>
+
+</table>
+
 
 
 
