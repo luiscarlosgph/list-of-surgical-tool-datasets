@@ -466,6 +466,23 @@ Organ segmentation datasets
       <a href="https://www.nature.com/articles/s41597-022-01719-2">Carstens et al. 2023</a>
     </td>
   </tr>
+  
+  
+  <!-- SurgAI3.8K: A Labeled Dataset of Gynecologic Organs -->
+  <tr>
+    <td align="center">
+      <a href="http://igt.ip.uca.fr/~ab/code_and_datasets/datasets/surgai3.8k_v1p0.zip">SurgAI3.8K</a>
+    </td>
+    <td align="center">
+      The dataset contains the following annotations: uterus segmentation, uterus contours and the regions of the left and right fallopian tube junctions.
+    </td>
+    <td align="center">3.8K</td>
+    <td align="center">79</td>
+    <td align="center">
+      <a href="http://encov.ip.uca.fr/publications/pubfiles/2023_MadadZadeh_etal_JMIG_surgai3.8k.pdf">Zadeh et al. 2023</a>
+      <!--<a href="https://www.jmig.org/article/S1553-4650(23)00018-3/fulltext">Paper</a>-->
+    </td>
+  </tr>
 
 </table>
 
