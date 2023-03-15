@@ -487,8 +487,8 @@ Organ segmentation datasets
 </table>
 
 
-Blood segmentation datasets
----------------------------
+Bleeding segmentation datasets
+------------------------------
 <table align="center">
   <tr>
     <td align="center">Dataset</td> <td align="center">Brief description</td> <td align="center">Images</td> <td align="center">Procedures</td> <td align="center">Paper</td>
