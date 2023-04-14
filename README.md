@@ -251,7 +251,7 @@ Tool-tissue action detection
     <td align="center">N/A</td>
     <td align="center">8</td>
     <td align="center">
-      <a href="https://link.springer.com/chapter/10.1007/978-3-031-16449-1_42">Valderrama et al</a> 
+      <a href="https://link.springer.com/chapter/10.1007/978-3-031-16449-1_42">Valderrama et al. 2022</a> 
 
   </tr>
   
