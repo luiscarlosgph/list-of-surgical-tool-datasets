@@ -239,6 +239,21 @@ Tool-tissue action detection
       N/A
     </td>
   </tr>
+
+   <!-- PSI-AVA -->
+  <tr>
+    <td align="center">
+      <a href="https://github.com/BCV-Uniandes/TAPIR">PSI-AVA</a>
+    </td>
+    <td align="center">
+      PSI-AVA is a dataset designed for holistic surgical scene understanding. It contains approximately 20.45 hours of the surgical procedure performed by three expert surgeons and annotations for both long-term (Phase and Step recognition) and short-term reasoning (Instrument detection and novel Atomic Action recognition) in robot-assisted radical prostatectomy videos.
+    </td>
+    <td align="center">N/A</td>
+    <td align="center">8</td>
+    <td align="center">
+      <a href="https://link.springer.com/chapter/10.1007/978-3-031-16449-1_42">Valderrama et al</a> 
+
+  </tr>
   
 </table>
 
