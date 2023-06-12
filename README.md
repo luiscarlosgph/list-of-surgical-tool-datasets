@@ -213,15 +213,15 @@ Tool-tissue action detection
   <!-- CholecT50 -->
   <tr>
     <td align="center">
-      <a href="https://cholectriplet2021.grand-challenge.org/">CholecT50</a>
+      <a href="https://github.com/CAMMA-public/cholect50">CholecT50</a>
     </td>
     <td align="center">
       Every frame is annotated with labels from the triplet: instrument, verb and target.
     </td>
     <td align="center">N/A</td>
-    <td align="center">N/A</td>
+    <td align="center">50</td>
     <td align="center">
-      N/A
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841522000846?via%3Dihub">Nwoye et al. 2022</a>
     </td>
   </tr>
   
