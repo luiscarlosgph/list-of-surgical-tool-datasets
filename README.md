@@ -61,7 +61,7 @@ Tool segmentation
     <td align="center">4.6 K</td>
     <td align="center">10</td>
     <td align="center">
-      <a href="[https://link.springer.com/chapter/10.1007/978-3-642-33418-4_70](https://arxiv.org/abs/1906.11586)">Sznitman et a. 2012</a>
+      <a href="[https://arxiv.org/pdf/1906.11586.pdf](https://arxiv.org/pdf/1906.11586.pdf)">Grammatikopoulou et a. 2022</a>
     </td>
   </tr>
   
