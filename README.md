@@ -49,6 +49,21 @@ Tool segmentation
   <tr>
     <td align="center">Dataset</td> <td align="center">Brief description</td> <td align="center">Images</td> <td align="center">Procedures</td> <td align="center">Paper</td>
   </tr>
+
+<!-- CaDIS -->
+  <tr>
+    <td align="center">
+      <a href="https://sites.google.com/site/sznitr/code-and-datasets">CaDIS</a>
+    </td>
+    <td align="center">
+      A high quality dataset for semantic segmentation in Cataract surgery. These studies are however performed different dataset and different level of granualirities, like instrument vs. background, instrument category vs background and instrument category vs body organs. In this challenge, we create a fine-grained annotated dataset that all anatomical structures and instruments are labelled to allow for a standard evaluation of models using the same data at different granularities. 
+    </td>
+    <td align="center">4.6 K</td>
+    <td align="center">10</td>
+    <td align="center">
+      <a href="[https://link.springer.com/chapter/10.1007/978-3-642-33418-4_70](https://arxiv.org/abs/1906.11586)">Sznitman et a. 2012</a>
+    </td>
+  </tr>
   
   <!-- RMIT -->
   <tr>
