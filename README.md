@@ -2,8 +2,10 @@ Description
 -----------
 List of surgical tool datasets organised by task. A list of data repositories is also displayed at the bottom. Please open an issue if you see a relevant open dataset which is missing or if you find inacurate information.
 
-Tool classification
--------------------
+<h2>Minimally invasive surgery</h4>
+
+
+<h3>Tool classification</h3>
 
 <table align="center">
   <tr>
@@ -43,8 +45,8 @@ Tool classification
 </table>
 
 
-Tool segmentation
------------------
+<h3>Tool segmentation</h3>
+
 <table align="center">
   <tr>
     <td align="center">Dataset</td> <td align="center">Brief description</td> <td align="center">Images</td> <td align="center">Procedures</td> <td align="center">Paper</td>
@@ -202,8 +204,8 @@ Tool segmentation
   
 </table>
 
-Tool-tissue action detection
-----------------------------
+
+<h3>Tool-tissue action detection</h3>
 
 <table align="center">
   <tr>
@@ -257,8 +259,8 @@ Tool-tissue action detection
   
 </table>
 
-Skill assessment and workflow recognition
------------------------------------------
+
+<h3>Skill assessment and workflow recognition</h3>
 
 <table align="center">
   <tr>
@@ -342,8 +344,9 @@ Skill assessment and workflow recognition
   
 </table>
 
-Image-to-image translation
---------------------------
+
+<h3>Image-to-image translation</h3>
+
 <table align="center">
   <tr>
     <td align="center">Dataset</td> <td align="center">Brief description</td> <td align="center">Paper</td>
@@ -363,8 +366,9 @@ Image-to-image translation
   </tr>
 </table>
 
-Multi-task datasets
--------------------
+
+<h3>Multi-task datasets</h3>
+
 <table align="center">
   <tr>
     <td align="center">Dataset</td> <td align="center">Brief description</td> <td align="center">Images/Videos</td> <td align="center">Procedures</td> <td align="center">Paper</td>
@@ -455,9 +459,8 @@ Multi-task datasets
 </table>
 
 
+<h3>Organ segmentation datasets</h3>
 
-Organ segmentation datasets
----------------------------
 <table align="center">
   <tr>
     <td align="center">Dataset</td> <td align="center">Brief description</td> <td align="center">Images</td> <td align="center">Procedures</td> <td align="center">Paper</td>
@@ -502,8 +505,8 @@ Organ segmentation datasets
 </table>
 
 
-Bleeding segmentation datasets
-------------------------------
+<h3>Bleeding segmentation datasets</h3>
+
 <table align="center">
   <tr>
     <td align="center">Dataset</td> <td align="center">Brief description</td> <td align="center">Images</td> <td align="center">Procedures</td> <td align="center">Paper</td>
@@ -528,11 +531,7 @@ Bleeding segmentation datasets
 </table>
 
 
-
-
-
-
-
+<h2>Open surgery</h4>
 
 
 Repositories holding multiple datasets
