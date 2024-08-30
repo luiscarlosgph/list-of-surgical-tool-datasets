@@ -449,7 +449,7 @@ List of surgical tool datasets organised by task. A list of data repositories is
             The test has tool presence labels and also bounding boxes around the robotic tools. The videos are sampled at 1Hz.
         </li>
     </td>
-    <td align="center">44M</td>
+    <td align="center">741K (videos sampled at 1Hz)</td>
     <td align="center">N/A</td>
     <td align="center">
       N/A
